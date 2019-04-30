@@ -12,18 +12,19 @@
 - The web is celebrating its 30th year anniversary this year
 - It started in 1989 when Sir Tim Berners-Lee wrote a document at CERN called “Information Management: A proposal”.
 - It described a global hypertext system that allowed for the exchange of documents
-- He was initially allowed to work on it as a side-project. But as the importance of the project became clear, the team grew, and as part of the project they invented three technologies that remain at the heart of the web today: HTML, URI, and HTTP
-- Over half the global population is on the web
+- He was initially allowed to work on it as a side-project. But from that project came what we today know as the web
+- Today, over half the global population is on the web
 - The web is designed to be universal - anyone can access it from any device
 - It is a set of open standards that allows anyone to develop for the web, without permission - we call this permissionless innovation
 
 # Permissionless innovation
 
 - Permissionless innovation means that you don't have to ask anyone for permission to publish content and services on the web, and 
-- Permissionless innovation has been the fertile ground that major tech companies have been founded on
+- this has been the fertile ground that major tech companies have been founded on
 - But sadly it seems that many of these tech giants are now dragging up the ladder behind them, forcing content creators to publish content and communicate through their services
 - The name of the game seems to be “who can get the most data about people so that advertisements can be targeted more efficient”
-- This leads to adverse effects such as data hoarding and persuasion architectures - services that makes it very hard for people to move their data around, and in effect creates a lot of redundant data
+- This incentivizes actors to be data hoarders and create persuasion architectures - services that makes it very hard for people to move their data around
+- This ecosystem favors the winners, and forces newcomers to participate on the premises of the most popular services - stiffling innovation
 
 # Solid
 
