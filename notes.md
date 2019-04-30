@@ -19,12 +19,11 @@
 
 # Permissionless innovation
 
-- Permissionless innovation means that you don't have to ask anyone for permission to publish stuff on the web, and 
+- Permissionless innovation means that you don't have to ask anyone for permission to publish content and services on the web, and 
 - Permissionless innovation has been the fertile ground that major tech companies have been founded on
 - But sadly it seems that many of these tech giants are now dragging up the ladder behind them, forcing content creators to publish content and communicate through their services
 - The name of the game seems to be “who can get the most data about people so that advertisements can be targeted more efficient”
 - This leads to adverse effects such as data hoarding and persuasion architectures - services that makes it very hard for people to move their data around, and in effect creates a lot of redundant data
-- As the saying goes “If you’re not paying for the product, you’re the product”
 
 # Solid
 
