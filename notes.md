@@ -9,31 +9,36 @@
 
 # Web@30
 
-- In March of 1989, Sir Tim Berners-Lee wrote a proposal at CERN called “Information Management: A proposal”
+- The web is celebrating its 30th year anniversary this year
+- It started in 1989 when Sir Tim Berners-Lee wrote a document at CERN called “Information Management: A proposal”.
+- It described a global hypertext system that allowed for the exchange of documents
+- He was initially allowed to work on it as a side-project. But as the importance of the project became clear, the team grew, and as part of the project they invented three technologies that remain at the heart of the web today: HTML, URI, and HTTP
 - Over half the global population is on the web
-- The web is universal, a set of open standards that allows anyone to develop for the web, without permission - we call this permissionless innovation
+- The web is designed to be universal - anyone can access it from any device
+- It is a set of open standards that allows anyone to develop for the web, without permission - we call this permissionless innovation
 
 # Permissionless innovation
 
+- Permissionless innovation means that you don't have to ask anyone for permission to publish stuff on the web, and 
 - Permissionless innovation has been the fertile ground that major tech companies have been founded on
-- But many of these tech giants are now dragging up the ladder behind them, forcing content creators to publish content and communicate through their services
+- But sadly it seems that many of these tech giants are now dragging up the ladder behind them, forcing content creators to publish content and communicate through their services
 - The name of the game seems to be “who can get the most data about people so that advertisements can be targeted more efficient”
 - This leads to adverse effects such as data hoarding and persuasion architectures - services that makes it very hard for people to move their data around, and in effect creates a lot of redundant data
 - As the saying goes “If you’re not paying for the product, you’re the product”
 
 # Solid
 
-- Solid is a new project from Sir Tim Berners-Lee where he wants to flip how personal data is handled on the web
-- Solid is an abbreviation on Solid Linked Data
-- It’s based on a simple premiss: “People should be in control of their personal data”
-- And a simple idea: “People should be able to tell service providers where their data should be stored”
+- Solid tries to solve a lot of these problems
+- It is a new project from Tim Berners-Lee where he wants to flip how personal data is handled on the web
+- It’s based on a simple idea: “People should be in control of their personal data”
 - Solid is many things
+  - An abbreviation on Solid Linked Data
   - A set of open standards
-  - Servers and client applications
-  - A social group of people interested in solving common problems
-  - A movement
-  - An ecosystem of services
-  - Another layer on the existing web
+  - Several implementations of said standards - Servers and client applications
+  - A social movement of people interested in solving problems using Solid technologies
+  - An ecosystem of services (something inrupt is heavily invested in)
+- When it comes down to it, Solid is just another layer on the existing web
+  - With some extra standards
 - JSON-LD, Turtle, HTML+RDFa, XML/RDF
 - A decentralized identity (e.g. https://megoth.inrupt.net/profile/card#me)
 - A pod
@@ -42,7 +47,6 @@
 - Verifiable credentials
 - Application registry and access management
 - Data discovery
-- Encryption
 - Shapes
 
 # Decentralize all the data
