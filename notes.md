@@ -1,5 +1,7 @@
 # Frontpage
 
+- Welcome to this presentation on Solid. I'm going to introduce you what Solid is all about and give you some thoughts of mine on how it is interoperable with blockchain technologies.
+
 # About me
 
 - inrupt is co-founded by CEO John Bruce and CTO Sir Tim Berners-Lee
@@ -13,16 +15,16 @@
 
 # Permissionless innovation
 
-- Tech giants have taken advantage of this permissionless innovation
-- But many of them are dragging up the ladder behind them, forcing content creators to publish content and communicate through their services
+- Permissionless innovation has been the fertile ground that major tech companies have been founded on
+- But many of these tech giants are now dragging up the ladder behind them, forcing content creators to publish content and communicate through their services
 - The name of the game seems to be “who can get the most data about people so that advertisements can be targeted more efficient”
 - This leads to adverse effects such as data hoarding and persuasion architectures - services that makes it very hard for people to move their data around, and in effect creates a lot of redundant data
 - As the saying goes “If you’re not paying for the product, you’re the product”
 
 # Solid
 
-- Solid is a new project from Sir Tim Berners-Lee where he wants to flip how personal data online is handled on the web
-- Solid is an abbreviation on Solid Linked Data (which for some might hint of its background with Semantic Web)
+- Solid is a new project from Sir Tim Berners-Lee where he wants to flip how personal data is handled on the web
+- Solid is an abbreviation on Solid Linked Data
 - It’s based on a simple premiss: “People should be in control of their personal data”
 - And a simple idea: “People should be able to tell service providers where their data should be stored”
 - Solid is many things
@@ -64,7 +66,8 @@
 - A lot of shared philosophies
   - The most prominent is, I believe, the wish to decentralize and create other models of trust
 - Blockchain technologies can have a lot of overhead if you try to reinvent the wheel
-  - Maybe just use the existing web - maybe use Solid?
+  - Maybe just use the existing web - URIs are universal, after all
+  - Maybe use Solid for decentralized identity, storage and authorization
 - An interesting example from the international blockchain & AI hackaton called Odyssey, where there was a challenge by the dutch Ministry of Justice and Security to build an open-source, decentralized and government backed protocol for registering and communicating digital permissions
   - The winning team - a german team called A Solid Team - created a universal, reusable and privacy-oriented protocol to approve, manage and revoke digital permissions.
   - They used Solid pods as storage
