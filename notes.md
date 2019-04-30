@@ -12,6 +12,7 @@
 - The web is celebrating its 30th year anniversary this year
 - It started in 1989 when Sir Tim Berners-Lee wrote a document at CERN called “Information Management: A proposal”.
 - It described a global hypertext system that allowed for the exchange of documents
+- The response from his boss, Mike Sendall, was "Vague, but exciting"
 - He was initially allowed to work on it as a side-project. But from that project came what we today know as the web
 - Today, over half the global population is on the web
 - The web is designed to be universal - anyone can access it from any device
